@@ -1,8 +1,8 @@
-#hsa-hw3
+# HSA-hw3
 Fetch the data about the last irreversible transaction on WAX and push it to the Google analytics.
 
-##Installation
+## Installation
 pip install requests
 
-##Run
+## Run
 python3 main.py
